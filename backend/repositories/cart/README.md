@@ -1,0 +1,1 @@
+This directory contains the implementation of the cart repository for the backend.
