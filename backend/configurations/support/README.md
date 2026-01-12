@@ -1,1 +1,0 @@
-This directory contains configurations and supports for the backend.

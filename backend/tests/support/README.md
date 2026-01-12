@@ -1,1 +1,0 @@
-This directory contains support files for backend tests.

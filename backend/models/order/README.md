@@ -1,1 +1,0 @@
-This directory contains the Order model for the backend. The Order model is responsible for handling all order-related data and operations.
